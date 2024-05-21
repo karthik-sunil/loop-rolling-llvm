@@ -1,14 +1,10 @@
 To build and run a simple testcase:
-```bash
+
 sh run.sh test
-```
+
 To visualize testcase:
-```bash
 sh viz.sh test
-```
 
 To run the testcase suite:
-```bash
 sh runcases.sh
-```
 
